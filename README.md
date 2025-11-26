@@ -2,6 +2,9 @@
 
 This application extracts comments from an online content source, filters those written in English, and analyzes their sentiment using a modern NLP model. It provides a simple and interactive interface built with Streamlit.
 
+## Demo
+https://sentiment-analysis-socialmedia-huvzsphdavcendqneqzdaw.streamlit.app/
+
 ## Features
 - Extract comments from a provided link  
 - Detect and keep only English comments  
